@@ -2,7 +2,6 @@
 I'm Vince Stephen S. David
 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=Amon-mamon&color=green&style=flat-square&label=Profile%20Views)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amon-mamon)](https://github.com/ryo-ma/github-profile-trophy)
 
